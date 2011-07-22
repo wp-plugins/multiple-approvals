@@ -9,7 +9,7 @@ Require mutiple users (Editor or Administrator) to approve a post before it is c
 
 == Description ==
 
-When the requirements (set in the plugin settings page) are met, the pending post becomes published. The plugin also shows the progress of the approval system.
+When the requirements (set in the plugin settings page) are met, the pending post becomes published. The plugin also shows the progress of the approval system. Post here or post your comment at the [plugin website](http://code.tseivan.com/multiple-approvals/)
 
 == Installation ==
 
